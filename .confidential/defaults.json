@@ -1,0 +1,9 @@
+{
+    "SECRET_KEY": "n00j(d(yn#-ga0$sr++1wgsb9(f1w2f+^#n$het1qz+rlz3mf1",
+    "ALLOWED_HOSTS": ["*"],
+    "DEBUG": true,
+    "DATABASE": {
+      "ENGINE": "django.db.backends.sqlite3",
+      "NAME": "db.sqlite3"
+    }
+  }
