@@ -5,7 +5,7 @@ description = ""
 authors = ["Flavio Mendes <flavio@x25.com.br>"]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.10.13"
 django = "^5.0.6"
 confidential = "^2.6.1"
 
