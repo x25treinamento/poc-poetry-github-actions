@@ -13,6 +13,7 @@ confidential = "^2.6.1"
 pytest-django = "^4.8.0"
 pytest-xdist = "^3.6.1"
 six          = "^1.16.0"
+black        = "^24.4.2"
 
 [build-system]
 requires = ["poetry>=1.8.3"]
