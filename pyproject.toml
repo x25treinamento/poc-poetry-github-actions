@@ -3,6 +3,7 @@ name = "x25"
 version = "0.1.1"
 description = ""
 authors = ["Flavio Mendes <flavio@x25.com.br>"]
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "3.11.9"

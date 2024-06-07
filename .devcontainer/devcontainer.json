@@ -9,8 +9,5 @@
             ]
         }
     },
-    "postCreateCommand": [
-		"pip3 install poetry",
-		"poetry install"
-	]
+    "postCreateCommand": "pip3 install poetry"
 }
